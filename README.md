@@ -1,4 +1,5 @@
-# rs422-quad-receiver
+# RS-422 Quad Receiver PCB
+![RS-422 Receiver PCB 3D View](rs-422_3d_screenshot.png)
 4-channel RS-422 receiver PCB designed in KiCad with AC termination, TVS protection, test points, and fabrication outputs. 
 ## Features
 - 4-channel RS-422 differential receiver
