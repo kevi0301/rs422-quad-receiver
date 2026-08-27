@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
+%TF.CreationDate,2026-08-26T16:03:07-04:00*%
+%TF.ProjectId,RS-422 Quad Receiver AM26C32,52532d34-3232-4205-9175-616420526563,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.4) date 2026-08-26 16:03:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X57500000Y-41000000D02*
+X208000000Y-41000000D01*
+X208000000Y-155000000D01*
+X57500000Y-155000000D01*
+X57500000Y-41000000D01*
+M02*
